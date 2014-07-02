@@ -1,0 +1,7 @@
+Credentials cache: API:9156
+        Principal: ltirard-@42.FR
+
+  Issued                Expires               Principal
+Jul  2 13:03:12 2014  Jul  2 23:03:12 2014  krbtgt/42.FR@42.FR
+Jul  2 13:03:14 2014  Jul  2 23:03:12 2014  nfs/zfs-student-1.42.fr@42.FR
+Jul  2 13:03:15 2014  Jul  2 23:03:12 2014  nfs/zfs-student-5.42.fr@42.FR
